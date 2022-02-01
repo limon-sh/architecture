@@ -5,5 +5,4 @@
 
 
 ## collector.limon.sh
-
 ![collector.limon.sh!](collector.limon.sh.png "Big picture of collector")
